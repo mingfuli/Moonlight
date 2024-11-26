@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Moonlight\\Moonlight\\Source\\Moonlight\\Moonlight.Build.cs",
+		"D:\\Unreal Projects\\Moonlight\\Moonlight\\Source\\Moonlight.Target.cs",
+		"D:\\Unreal Projects\\Moonlight\\Moonlight\\Source\\MoonlightEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}
