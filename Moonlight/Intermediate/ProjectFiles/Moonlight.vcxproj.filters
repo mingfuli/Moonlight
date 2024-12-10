@@ -11,6 +11,7 @@
     <None Include="..\..\Source\MoonlightEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -38,20 +39,20 @@
     <ClCompile Include="..\..\Source\Moonlight\Moonlight.cpp">
       <Filter>Source\Moonlight</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Moonlight\Moonlight.h">
+    <ClCompile Include="..\..\Source\Moonlight\Moonlight.h">
       <Filter>Source\Moonlight</Filter>
-    </ClInclude>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Moonlight\MoonlightCharacter.cpp">
       <Filter>Source\Moonlight</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Moonlight\MoonlightCharacter.h">
+    <ClCompile Include="..\..\Source\Moonlight\MoonlightCharacter.h">
       <Filter>Source\Moonlight</Filter>
-    </ClInclude>
+    </ClCompile>
     <ClCompile Include="..\..\Source\Moonlight\MoonlightGameMode.cpp">
       <Filter>Source\Moonlight</Filter>
     </ClCompile>
-    <ClInclude Include="..\..\Source\Moonlight\MoonlightGameMode.h">
+    <ClCompile Include="..\..\Source\Moonlight\MoonlightGameMode.h">
       <Filter>Source\Moonlight</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>

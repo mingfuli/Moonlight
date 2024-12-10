@@ -81,10 +81,10 @@ AMoonlightGameMode::~AMoonlightGameMode() {}
 struct Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AMoonlightGameMode, AMoonlightGameMode::StaticClass, TEXT("AMoonlightGameMode"), &Z_Registration_Info_UClass_AMoonlightGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMoonlightGameMode), 680208567U) },
+		{ Z_Construct_UClass_AMoonlightGameMode, AMoonlightGameMode::StaticClass, TEXT("AMoonlightGameMode"), &Z_Registration_Info_UClass_AMoonlightGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMoonlightGameMode), 661956097U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightGameMode_h_3138573414(TEXT("/Script/Moonlight"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightGameMode_h_447559083(TEXT("/Script/Moonlight"),
 	Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

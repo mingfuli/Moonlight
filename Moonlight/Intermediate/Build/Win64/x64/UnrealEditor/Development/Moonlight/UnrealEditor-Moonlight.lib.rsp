@@ -6,12 +6,13 @@
 /NAME:"UnrealEditor-Moonlight.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_4.h.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Moonlight.init.gen.cpp.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\MoonlightCharacter.gen.cpp.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\MoonlightGameMode.gen.cpp.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Moonlight.cpp.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\MoonlightCharacter.cpp.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\MoonlightGameMode.cpp.obj"
+"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\PerModuleInline.gen.cpp.obj"
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Default.rc2.res"
 /OUT:"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\UnrealEditor-Moonlight.lib"

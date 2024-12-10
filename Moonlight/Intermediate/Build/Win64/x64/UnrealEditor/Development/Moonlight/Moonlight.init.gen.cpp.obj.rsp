@@ -1,11 +1,13 @@
 "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\UnrealEditor\Inc\Moonlight\UHT\Moonlight.init.gen.cpp"
-/FI"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_4.h"
 /FI"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Definitions.Moonlight.h"
-/Yu"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Yu"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_4.h"
+/Fp"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\MoonlightEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_4.h.pch"
 /Fo"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Moonlight.init.gen.cpp.obj"
+/experimental:log "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Moonlight.init.gen.cpp.sarif"
 /sourceDependencies "D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Moonlight.init.gen.cpp.dep.json"
 @"D:\Unreal Projects\Moonlight\Moonlight\Intermediate\Build\Win64\x64\UnrealEditor\Development\Moonlight\Moonlight.Shared.rsp"
+/d2ssa-cfg-question-
 /Zc:inline
 /nologo
 /Oi

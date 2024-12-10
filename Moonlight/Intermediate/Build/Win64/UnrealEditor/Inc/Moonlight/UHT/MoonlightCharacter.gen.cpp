@@ -174,10 +174,10 @@ AMoonlightCharacter::~AMoonlightCharacter() {}
 struct Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightCharacter_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_AMoonlightCharacter, AMoonlightCharacter::StaticClass, TEXT("AMoonlightCharacter"), &Z_Registration_Info_UClass_AMoonlightCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMoonlightCharacter), 1161967485U) },
+		{ Z_Construct_UClass_AMoonlightCharacter, AMoonlightCharacter::StaticClass, TEXT("AMoonlightCharacter"), &Z_Registration_Info_UClass_AMoonlightCharacter, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(AMoonlightCharacter), 3284174355U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightCharacter_h_670096956(TEXT("/Script/Moonlight"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightCharacter_h_4122976373(TEXT("/Script/Moonlight"),
 	Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightCharacter_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Unreal_Projects_Moonlight_Moonlight_Source_Moonlight_MoonlightCharacter_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);
